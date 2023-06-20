@@ -1,0 +1,22 @@
+body {
+   font-family: sans-serif;
+}
+
+h1 {
+   color: purple;
+}
+
+p {
+   color: green;
+}
+
+img {
+   width: 400px;
+   border-radius: 20px;
+}
+
+a {
+   color: orangered;
+   font-weight: bold;
+   display: block;
+}
